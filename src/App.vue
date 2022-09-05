@@ -20,6 +20,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
+  overflow: hidden;
   background-color: hsl(212, 45%, 89%);
 }
 h1 {
