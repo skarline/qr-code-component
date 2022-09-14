@@ -21,14 +21,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-using-vue-3-S7kTOoY8TO)
-- Live Site URL: [Add live site URL here](https://skarline.github.io/qr-code-component/)
+- [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-using-vue-3-S7kTOoY8TO)
+- [Live Site](https://skarline.github.io/qr-code-component/)
 
 ## My process
 
 ### Built with
 
-- [Vue.js](https://vuejs.org/) - JS library
+- [Vue.js](https://vuejs.org/)
 - TypeScript
 - CSS Grid
 
